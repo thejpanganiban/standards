@@ -3,9 +3,17 @@
 Collection of Company standards when it comes to code, ethics and workplace
 habits.
 
-- Elixir
-- Node.js
-- React Native
-- UI Design
+#### Workflow
+
+- [Code Editor](code-editor.md)
+
+#### Programming Language Practices
+
+- [Ember](ember.md)
+- [Node.js](node.md)
+- [React.js](react.md)
+- [Ruby on Rails](rails.md)
+- [React Native](react-native.md)
+- [UI Design](ui-design.md)
 
 :copyright: [MergeCommit Solutions](http://www.mergecommit.com)

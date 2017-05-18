@@ -5,6 +5,7 @@ habits.
 
 #### Workflow
 
+- [General Code of Conduct](general.md)
 - [Code Editor](code-editor.md)
 
 #### Best Practices

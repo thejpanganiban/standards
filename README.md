@@ -1,13 +1,13 @@
 # Standards
 
-Collection of Company standards when it comes to code, ethics and workplace
+Collection of Company standards when it comes to code, ethics and workflow
 habits.
 
 #### Workflow
 
 - [Code Editor](code-editor.md)
 
-#### Programming Language Practices
+#### Best Practices
 
 - [Ember](ember.md)
 - [Node.js](node.md)
